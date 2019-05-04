@@ -1,0 +1,40 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2017-08-07 02:55+E. South America Standard Time\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: ENCODING\n"
+"Generated-By: pygettext.py 1.5\n"
+
+
+#: webI.py:14
+msgid "IP para teste:"
+msgstr ""
+
+#: webI.py:40
+msgid "Web Interface Pentest"
+msgstr ""
+
+#: webI.py:46
+msgid ""
+"0 - Voltar para o Menu Principal\n"
+"1 - Mostrar Informacoes da rede\n"
+"2 - Inserir Endereco\n"
+msgstr ""
+
+#: webI.py:52
+msgid "Escolha invalida"
+msgstr ""
+
+#: webI.py:55
+msgid "Informacoes da rede:"
+msgstr ""
+

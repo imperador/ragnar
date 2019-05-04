@@ -1,0 +1,34 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2017-08-07 01:56-0300\n"
+"PO-Revision-Date: 2017-08-07 01:58-0300\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: pygettext.py 1.5\n"
+"X-Generator: Poedit 2.0.2\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en\n"
+
+#: ragnar.py:40
+msgid "Escolha o Modulo a ser executado"
+msgstr "Choose the Module to be executed"
+
+#: ragnar.py:46
+msgid ""
+"0 - Fechar o Programa\n"
+"1 - Interface Web \n"
+msgstr ""
+"0 - Close the Program\n"
+"1 - Web Interface \n"
+
+#: ragnar.py:52
+msgid "Escolha invalida"
+msgstr "Invalid selection"
