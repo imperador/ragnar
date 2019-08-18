@@ -54,7 +54,7 @@ GitHub: @imperador
 
 ## Referencing this work
 
-#### \[2019\] Pentest of Internet of Things Devices
+#### \[2019\] Pentest on Internet of Things Devices
 *Cristoffer Leite, João Gondim, Priscila Solis, Marcos Caetano and Eduardo Alchieri*
 <br/> XLV LATIN AMERICAN COMPUTING CONFERENCE (CLEI 2019) - Forthcoming
 <br/>\[pdf\] \[bib\]
