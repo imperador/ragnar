@@ -57,9 +57,10 @@ GitHub: @imperador
 #### \[2019\] Pentest on Internet of Things Devices
 *Cristoffer Leite, João Gondim, Priscila Solis, Marcos Caetano and Eduardo Alchieri*
 <br/> XLV LATIN AMERICAN COMPUTING CONFERENCE (CLEI 2019) - Forthcoming
-<br/>\[pdf\] \[bib\]
+<br/>[\[pdf\]](http://clei2019.utp.ac.pa/storage/app/uploads/public/5d8/cff/bd1/5d8cffbd16f09903219768.pdf) \[bib\]
 
 #### \[2017\] Ragnar: Ferramenta para Pentest em dispositivos da Internet das Coisas
 *Cristoffer Leite da Silva*
 <br/> Universidade de Brasılia, 2017
-<br/>[\[pdf\]](http://bdm.unb.br/bitstream/10483/19824/1/2017_CristofferLeiteDaSilva_tcc.pdf) [\[bib\]](https://scholar.googleusercontent.com/scholar.bib?q=info:lG_ooNfSqbwJ:scholar.google.com/&output=citation&scisdr=CgUlVyY-ELOVlr6fYlU:AAGBfm0AAAAAXViaelVmK9mBsGQzZdsV-iIQ_rHxUHbE&scisig=AAGBfm0AAAAAXViaensdpZkUm5jHk_Zt6pp8fkqwfAjS&scisf=4&ct=citation&cd=-1&hl=en&scfhb=1)
+<br/>[\[pdf\]](http://bdm.unb.br/bitstream/10483/19824/1/2017_CristofferLeiteDaSilva_tcc.pdf) \[bib\]
+
