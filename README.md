@@ -60,7 +60,7 @@ GitHub: @imperador
 <br/>[\[pdf\]](http://clei2019.utp.ac.pa/storage/app/uploads/public/5d8/cff/bd1/5d8cffbd16f09903219768.pdf) \[bib\]
 
 #### \[2017\] Ragnar: Ferramenta para Pentest em dispositivos da Internet das Coisas
-*Cristoffer Leite da Silva*
+*Cristoffer Leite*
 <br/> Universidade de Brasılia, 2017
 <br/>[\[pdf\]](http://bdm.unb.br/bitstream/10483/19824/1/2017_CristofferLeiteDaSilva_tcc.pdf) \[bib\]
 
